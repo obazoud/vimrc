@@ -571,7 +571,7 @@ if has("gui_running")
     set guioptions-=R
 else
     set bg=dark
-    colorscheme molokai
+    colorscheme wombat
 endif
 
 " Pulse ------------------------------------------------------------------- {{{
